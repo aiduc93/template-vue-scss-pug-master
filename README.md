@@ -14,5 +14,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-# edit 1 
+# edit 1
 
